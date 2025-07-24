@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.18.9'
 gem 'spider'
 gem 'mini_exiftool'
 gem 'zip'
